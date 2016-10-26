@@ -1,0 +1,9 @@
+node_modules/
+.git/
+.idea/
+build-temp/
+build/
+coverage/
+target/
+_SpecRunner.html
+test-results/
